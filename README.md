@@ -4,6 +4,12 @@ hipchat notifier
 Very Very Very simple hipchat notifier in go
 
 
+## Install
+
+``` bash
+  $ go install github.com/dukex/hipchat-notifier
+```
+
 ## Usage
 
 ``` bash
