@@ -7,6 +7,7 @@ Very Very Very simple hipchat notifier in go
 ## Install
 
 ``` bash
+  $ go get github.com/dukex/hipchat-notifier
   $ go install github.com/dukex/hipchat-notifier
 ```
 
